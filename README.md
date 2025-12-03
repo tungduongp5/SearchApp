@@ -1,4 +1,6 @@
 Java Search Application – Information & Product Price Finder
+
+
 📌 Description
 
 This is a Java Swing application that simulates:
