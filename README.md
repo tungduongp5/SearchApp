@@ -19,9 +19,12 @@ It is designed for educational purposes, such as a final project or big assignme
 
 Java
 
+
 Java Swing (GUI)
 
+
 File I/O (export .txt)
+
 
 ✨ Features
 
@@ -40,6 +43,7 @@ Export search results to a file
 Count the number of searches performed
 
 📂 Project Structure
+
 TimKiemThongTinJava/
 │
 ├── TimKiemThongTin_NangCao.java   # Main Java program
@@ -50,7 +54,9 @@ TimKiemThongTinJava/
 
 Using Command Prompt:
 
-javac TimKiemThongTin_NangCao.java
+java TimKiemThongTin_NangCao.java
+
+
 java TimKiemThongTin_NangCao
 
 
